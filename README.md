@@ -192,6 +192,7 @@ A Survey on Industrial Anomalies Synthesis [[paper]](https://arxiv.org/abs/2502.
 + Hyperbolic Defect Feature Synthesis for Few-Shot Defect Classification [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/40073)
 + UniSpector: Towards Universal Open-set Defect Recognition via Spectral-Contrastive Visual Prompting [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/38081)
 + Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset [[CVPR 2026]](https://arxiv.org/abs/2512.24160)[[data]](https://ninaneon.github.io/projectpage)
++ Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2605.07149)
 
 ## ICLR 2026
 + Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors [[ICLR 2026]](https://arxiv.org/abs/2510.01934)[[code]](https://github.com/ymxlzgy/FoundAD)
@@ -1372,6 +1373,7 @@ Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.
 + M3-AD: Reflection-aware Multi-modal, Multi-category, and Multi-dimensional
 Benchmark and Framework for Industrial Anomaly Detection [[2026]](https://arxiv.org/abs/2603.00055)[[code]](https://github.com/Yanhui-Lee/M3-AD)
 + VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction [[2026]](https://arxiv.org/abs/2603.13964)[[data]](https://github.com/nkthiroto/VID-AD)
++ Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2605.07149)
 
 ## BibTex Citation
 
